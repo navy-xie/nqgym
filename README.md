@@ -1,2 +1,3 @@
-# nqgym
+# NQGym
+
 A Python project generator.
