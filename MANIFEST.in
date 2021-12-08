@@ -1,0 +1,3 @@
+graft nqgym/templates
+
+global-exclude *.pyc
