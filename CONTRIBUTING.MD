@@ -22,6 +22,10 @@
     $ make test
     $ make coverage
 
+## Release
+
+    $ make release
+
 
 [1]: https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html "Conda Installation"
 [2]: https://gist.github.com/evanwill/0207876c3243bbb6863e65ec5dc3f058#make "Install make to git-bash on Windows"

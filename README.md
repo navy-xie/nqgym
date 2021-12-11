@@ -15,8 +15,6 @@ Features of the Python project template:
     - testing and running UT coverage
 - Support `CLI` (Command-Line Interface) to start / stop the app or run other commands from the Python entry point.
 
-Features of the web project template:
-
 ## How to use it
 
 Install from PyPi:
@@ -32,12 +30,10 @@ $ nqgym --help
 $ nqgym create --help
 ```
 
-Create a Python project, or a web service project:
+Create a Python project:
 
 ```bash
 $ nqgym create
-# or
-$ nqgym create --service
 ```
 
 The generator will ask you for some input data, you might want to have at hand before generating the project.  
@@ -50,6 +46,11 @@ The input variables, with their default values (some auto generated) are:
 ## More details
 
 After using the generator, your new project (the directory created) will contain an extensive `README.md` with instructions for development, deployment, etc. You can read it to find more details.
+
+
+## How to contribute
+
+Please follow the guide [contribution](./CONTRIBUTING.md) to develop and contribute NQGym.
 
 ## Release notes
 
