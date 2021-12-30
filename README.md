@@ -3,7 +3,7 @@
 A command-line utility that creates Python projects.
 
 [![Package Status](https://img.shields.io/pypi/status/nqgym.svg)](https://pypi.org/project/nqgym/)
-![Python](https://img.shields.io/badge/python->=3.8-green.svg)
+![Python](https://img.shields.io/badge/python->=3.6-green.svg)
 ![Pypi](https://img.shields.io/badge/pypi-1.0.0-blue.svg)
 [![Download](https://img.shields.io/pypi/dm/nqgym.svg)](https://pypi.python.org/pypi/nqgym)
 [![License](https://img.shields.io/pypi/l/nqgym.svg)](https://github.com/navy-xie/nqgym/blob/master/LICENSE)
